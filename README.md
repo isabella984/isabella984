@@ -5,3 +5,7 @@ meu nome é Isabella
 -estuo estudando na alura
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organizaçãoe compartilhamentos dos meus projetios desenvolvidos
+
+
+
+!{}(https://media1.tenor.com/m/yMvS0MOQ8FcAAAAC/lanaberry-lana-del-rey.gif)
